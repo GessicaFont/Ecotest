@@ -1,0 +1,6 @@
+c
+Escolha a resposta que apenas contem animais herbivoros.
+a) Vaca, macaco, canguru, coelho, leao.
+b) Vaca, aguia, tubarao, coelho, cavalo.
+c) Canguru, coelho, panda, boi, cavalo.
+d) Cavalo, boi,canguru, tigre, pantera
